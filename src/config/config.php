@@ -1,2 +1,2 @@
 <?php
-define('JQUERY_CHOSEN', '1.4.2');
+define('JQUERY_CHOSEN', '1.8.7');
